@@ -141,7 +141,7 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <asp:PlaceHolder ID="ph_performans_raporu" runat="server"></asp:PlaceHolder>
+                                    <asp:PlaceHolder ID="ph_table" runat="server"></asp:PlaceHolder>
                                 </tbody>
                             </table>
                         </div>
